@@ -1,3 +1,3 @@
 # Aesthetic ASCII
 
-optimization
+making optimization
