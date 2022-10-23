@@ -1,3 +1,6 @@
 [submodule "submodule/actions_with_r"]
 	path = submodule/actions_with_r
 	url = https://github.com/elleobrien/actions_with_r.git
+[submodule "actions_with_r"]
+	path = actions_with_r
+	url = https://github.com/elleobrien/actions_with_r.git
